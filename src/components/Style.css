@@ -1,0 +1,57 @@
+ .header
+ {
+    margin-top: -10.8rem;
+    position: fixed;
+    z-index: 3;
+    margin-left: 7rem;
+ }
+ .Header
+{
+    background-color: #FBFBFB;
+    height: 150px
+}
+
+.navBar
+{
+    background-color: #FBFBFB;
+    width: 71.25rem;
+    margin: auto;
+    margin-top: -1rem;
+    position: fixed;
+    z-index: 2;
+}
+.input
+{
+    outline: 1px solid #007befef;
+}
+.home
+{
+    margin-top: 10rem;
+    margin-left: 0.9rem;
+}
+.leagueDetails
+{
+    margin-top: 10rem;
+    margin-left: 7rem;
+    margin-right: 6.2rem;
+    background-color: rgb(16, 3, 41);
+}
+.leagueDetailsCard
+{
+    background-color: #1976dae1;
+    width: 97%
+}
+.leagueDescription
+{
+    color: burlywood;
+    text-align: justify;
+    
+}
+.body
+{
+    background-color: #86a576e1;
+}
+.cardBody
+{
+    background-color: rgb(11, 19, 126);
+}
